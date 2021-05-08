@@ -125,6 +125,8 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 4      | Sort a nearly sorted (or K sorted) array |         [GFG](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)                                            |
 | 5      | Kth Smallest Element in a Sorted Matrix  | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)                           |
 
+
+
 ## Algorithms
 
 ### Binary Search
@@ -166,3 +168,15 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 22     | Interleaving String                                  | [LeetCode](https://leetcode.com/problems/interleaving-string/) , [InterviewBit](https://www.interviewbit.com/problems/interleaving-strings/)                                              |
 | 23     | Matrix Chain Multiplication                          | [LeetCode](https://leetcode.com/problems/burst-balloons/)                                                            |
 | 24     | Palindrome Partitioning                              | [LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)                                                |
+
+## Graph
+| **ID** | **PROBLEM STATEMENT**                                | **PROBLEM LINK**                        |
+|--------|------------------------------------------------------|-----------------------------------------|
+| 1     | Region in Binary Matrix                                      | [InterviewBit](https://www.interviewbit.com/problems/region-in-binarymatrix/) , [GFG](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1)                                                          |
+| 2     | Rotting Oranges                                    | [LeetCode](https://leetcode.com/problems/rotting-oranges/)  , [GFG](https://practice.geeksforgeeks.org/problems/rotten-oranges/0)                                              |
+| 3     | Number of Islands                             | [LeetCode](https://leetcode.com/problems/number-of-islands/)  , [GFG](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1/?category[]=Graph&category[]=Graph&page=1&query=category[]Graphpage1category[]Graph)                                               |
+| 4      | Find whether path exist                                  | [InterviewBit](https://www.interviewbit.com/problems/path-in-directed-graph/) , [GFG](https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1/?category[]=Graph&category[]=Graph&page=1&query=category[]Graphpage1category[]Graph)                                                      |
+| 5      | Cycle in Undirected Graph                           | [InterviewBit](https://www.interviewbit.com/problems/cycle-in-undirected-graph/) , [GFG](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/?category[]=Graph&category[]=Graph&page=1&query=category[]Graphpage1category[]Graph)                                       |
+| 6      | Cycle in Directed Graph                     | [InterviewBit](https://www.interviewbit.com/problems/cycle-in-directed-graph/) , [LeetCode](https://leetcode.com/problems/course-schedule/) |
+| 7      | Topological Sort                       | [LeetCode](https://leetcode.com/problems/course-schedule-ii/)                                     |
+| 8     | Snakes and Ladders                                        |   [LeetCode](https://leetcode.com/problems/snakes-and-ladders/) , [InterviewBit](https://www.interviewbit.com/problems/snake-ladder-problem/)                                                           |
